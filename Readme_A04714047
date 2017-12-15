@@ -1,0 +1,62 @@
+
+GROUP MEMBERS
+================================================================================
+1. Sandhya Rani Doti	A04714047	s_d228@txstate.edu
+2. Akshay Chandrachood	A04742395 	amc400@txstate.edu
+
+
+Steps to compile and run the project.
+=================================================================================
+
+For IDE users:
+
+Step 1) 
+	
+	Unzip the file .
+
+
+Step 2)
+	
+	We implemented connect Four game in JAVA. We have the below files in the project.
+	
+	a) Board.java
+	b) Console_Interface.java (main method exists in this file)
+	c) Minimax.java 
+	d) AlphaBeta.java
+	e) Evaluations.java
+
+	
+
+Step 3) 
+
+	Open all the above mentioned files using eclipse IDE
+	
+
+ 
+Step 4) 
+	
+	Build all the files.
+	
+	
+Step 5) 
+	
+	Then run the file "Console_Interface.java" as a Java application.
+	
+==============================================================================================
+
+For Linux users:
+
+
+1. Navigate to the project folder
+
+
+2. Compile (main is in Console_Interface.java)
+		
+	
+		javac Console_Interface.java
+
+3. Run
+		
+		java Console_Interface
+
+
